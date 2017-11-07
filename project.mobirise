@@ -1,9 +1,9 @@
 {
   "settings": {
-    "name": "BOGI-CLASHROYALE",
+    "name": "BOGI",
     "currentPage": "BOGI.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 32,
+    "uniqCompNum": 33,
     "versionPublish": "4.4.0",
     "theme": {
       "name": "mobirise4",
@@ -37,7 +37,8 @@
     },
     "favicon": "@PROJECT_PATH@/assets/images/photo2-128x128.png",
     "noImageResize": "",
-    "cookiesAlert": ""
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+    "google-analytics": ""
   },
   "pages": {
     "BOGI.html": {
@@ -576,8 +577,8 @@
         },
         {
           "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "0",
+            "paddingBottom": "4",
             "socialFacebook": false,
             "postsNumber": 5,
             "socialGoogle": true,
