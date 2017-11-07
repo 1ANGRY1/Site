@@ -2587,8 +2587,16 @@ body {
 .cid-qAdbPaQd4x .navbar-collapse {
   flex-basis: auto;
 }
-.cid-qAdM5YIKkP {
+.cid-qAgS1B2YnE {
   background-color: #232323;
+}
+.cid-qAgS1B2YnE .mbr-text,
+.cid-qAgS1B2YnE .mbr-section-btn {
+  text-align: left;
+  color: #c4bc3b;
+}
+.cid-qAgS1B2YnE H1 {
+  color: #c4bc3b;
 }
 .cid-qAdbPaQd4x .navbar {
   padding: .5rem 0;
